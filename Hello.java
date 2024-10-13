@@ -5,7 +5,7 @@
 
 /**
  *
- * @author barbara.johnson
+ * @author barbara.johnson hello
  */
 public class Hello extends javax.swing.JFrame {
 
